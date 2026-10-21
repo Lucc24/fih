@@ -74,8 +74,8 @@ footer {
   width: 600px;
   height: auto;
   max-width:120%;
-  margin: 20px auto;
-  animation: fadeIn 50s ease-in forwards;
+  margin: -500px auto;
+  animation: fadeIn 30s ease-in forwards;
 }
 
 
